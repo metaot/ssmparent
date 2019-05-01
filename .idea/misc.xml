@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ssm_web" />
+    <file type="web" url="file://D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_web_335" />
+    <file type="web" url="file://D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_web_335" />
+    <file type="web" url="file://D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_web_335" />
+    <file type="web" url="file://D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_web_335" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_dao_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_domain_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_service_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_utils_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day-62ssm练习_Day03/代码/ssm_parent_335/ssm_web_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_dao_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_domain_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_service_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_utils_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day61ssm练习_Day02/ssm练习_Day02/代码/ssm_parent_335/ssm_web_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_dao_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_domain_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_service_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_utils_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day63ssm练习_Day04/ssm练习_Day04/代码/ssm_parent_335/ssm_web_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_dao_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_domain_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_service_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_utils_335/pom.xml" />
+        <option value="D:/课件和资料/传智课件Java（在校）/就业班/项目2-ssm/day64ssm练习_Day05/代码/ssm_parent_335/ssm_web_335/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
